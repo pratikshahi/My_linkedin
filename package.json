@@ -1,0 +1,19 @@
+{
+  "name": "my-linkedin",
+  "version": "1.0.0",
+  "description": "building my own linkedin like web app with node ,express,react,redux &mongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pratik Shahi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratikshahi/My_linkedin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pratikshahi/My_linkedin/issues"
+  },
+  "homepage": "https://github.com/pratikshahi/My_linkedin#readme"
+}
