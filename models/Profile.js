@@ -15,7 +15,7 @@ const ProfileSchema = new Schema({
   company: {
     type: String,
   },
-  Website: {
+  website: {
     type: String,
   },
   location: {
